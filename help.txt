@@ -1,0 +1,22 @@
+_________________________________________________________
+Window Tool - Development by Duy Minh
+// Hướng dẫn sử dụng
+Chạy File WindowTool.exe hoặc mã nguồn (.au3)
+** Sử dụng công cụ Window Tool **
+1. Nhấp vào Finder Tool và thực hiện click vào cửa sổ cần điều chỉnh (Ví dụ: Notepad, Chrome,...)
+2. Điều chỉnh các chỉ số trong công cụ để phù hợp với mục đích sử dụng
+** Các thông số **
++ Opacity : Điều chỉnh độ trong suốt của cửa sổ
++ Place the window on top (Checkbox): Tùy chọn đặt cửa sổ lên trên cùng
++ Window Size: Điều chỉnh kích thước cửa sổ (Thường được sử dụng ở một số phần mềm không cho phép điều chỉnh kích thước cửa sổ)
++ Window Title: Điều chỉnh tiêu đề của cửa sổ
+_________________________________________________________
+
+// Thông tin tác giả: Trần Phạm Duy Minh
+   Facebook: https://facebook.com/duyminhhello
+   Zalo: Trần Phạm Duy Minh | 0859992120
+// Buy me a Coffee
+   TRAN PHAM DUY MINH | MBANK | 0859992120
+
+_________________________________________________________
+:) Hello!
